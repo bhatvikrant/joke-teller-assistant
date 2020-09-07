@@ -59,3 +59,12 @@ button:disabled {
 		box-shadow: 5px 5px 30px 20px rgba(0, 0, 0, 0.5);
 	}
 }
+
+.footer {
+	color: whitesmoke;
+	font-size: 12px;
+}
+
+.developer-name {
+	color: whitesmoke;
+}
